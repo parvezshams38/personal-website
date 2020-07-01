@@ -1,0 +1,96 @@
+body{
+    margin:0px;
+    font-family: sans-serif;
+}
+#header{
+    background-image: url(header-bg.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 100px;    
+}
+
+.half{
+    width: 40%;
+    float: left;
+}
+
+.half-left{
+    margin-right: 0;
+    margin-left:15%;
+}
+
+.half-right{
+    margin-left: 0;
+}
+
+.half img{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(238, 9, 77);
+    margin-top: 0px;
+}
+
+h2{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+#biography{
+    width: 100%;
+    background-image: url(biography-bg.png);
+    background-size: auto;
+    height: 1000px;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+
+.some-text{
+    margin-top: 10%;
+}
+
+.latestWorks{
+    float: left;
+    width: 30%;
+    margin: 1%;
+}
+
+.latestWorks img{
+    width: 100%;;
+}
+
+
+#latest-work{
+    background-image: url(latest-work-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+
+#lastSection{
+    background-image: url(footer-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height:700px;
+    padding: 10% 30%;
+}
+
+.cntr{
+    text-align: center;
+}
+
+
+.link-button{
+    background-image: linear-gradient(90deg, rgb(250, 114, 220),rgb(255, 0, 119));
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
