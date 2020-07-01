@@ -59,6 +59,12 @@ h2{
     margin: 1%;
 }
 
+.latestWorks:hover{
+    float: left;
+    width: 32%;
+    margin: 0%;
+}
+
 .latestWorks img{
     width: 100%;;
 }
